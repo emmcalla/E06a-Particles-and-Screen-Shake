@@ -11,3 +11,5 @@ I have linked to tutorials in the modules on Canvas; hopefully, those will be us
 Part 2: The Camera node has an attached script which implements screen shake. Add WASD inputs to the project, and in the World script, trigger and add screen shake (add_trauma(some value)) to the Camera node when the user presses one of those keys.
 
 When you have completed the exercise, *update the LICENSE and README.md*, commit and push your changes to GitHub, and turn in the URL to your repository on Canvas.
+
+Project Complete.
